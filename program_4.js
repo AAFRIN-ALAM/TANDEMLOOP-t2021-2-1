@@ -9,6 +9,7 @@ let array =[1,2,3,4,5,6,7,8,9]
 let input = [1,2,8,9,12,46,76,82,15,20,30]
 
 let obj = {}
+
 for(let i =1;i<=9;i++){
     let count =0;
     for(let j=0;j<input.length;j++){
